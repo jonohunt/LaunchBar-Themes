@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.jonohunt.LaunchBar.theme.macOS-Light-Large-Icons</string>
+	<key>CFBundleName</key>
+	<string>macOS Light — Large Icons</string>
+	<key>LBThemeDescription</key>
+		<string>Light theme based on a standard macOS look. Input Area icon size = 40x40. Item List icon size = 28x28.</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.11</string>
+</dict>
+</plist>

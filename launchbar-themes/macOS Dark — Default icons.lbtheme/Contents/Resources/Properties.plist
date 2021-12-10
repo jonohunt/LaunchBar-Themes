@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>itemListNavigationArrowImage</key>
+	<string>NavigationArrow</string>
+	<key>itemListNavigationArrowImageH</key>
+	<string>NavigationArrowH</string>
+
+
+
+	<key>inputAreaIconSize</key>
+	<string>32 32</string>
+	<key>itemListIconSize</key>
+	<string>24 24</string>
+
+  
+
+	<key>defaultTextColor</key>
+	<string>whiteColor</string>
+	<key>defaultTextShadowColor</key>
+	<string>#00000033</string>
+	<key>defaultDimmedTextColor</key>
+	<string>#aaaaaa</string>
+
+	<key>defaultFontName</key>
+	<string>lightSystemFont</string>
+	<key>defaultEmphasizedFontName</key>
+	<string>semiboldSystemFont</string>
+
+
+
+	<key>windowDefaultWidth</key>
+	<string>700</string>
+	<key>windowMinimumWidth</key>
+	<string>700</string>
+
+
+	<key>windowCornerRadius</key>
+	<integer>10</integer>
+
+	<key>itemListSelectionCornerRadius</key>
+	<integer>6</integer>
+
+
+	<key>windowBackgroundColorIsDark</key>
+	<true/>
+
+	<key>windowBackgroundColor</key>
+	<string>#151a20e8</string>
+	<key>windowBackgroundBlurRadius</key>
+	<integer>65</integer>
+
+	<key>windowHasInnerShadow</key>
+	<false/>
+	<key>windowShadowStyle</key>
+	<integer>1</integer>
+
+
+
+
+	<key>inputAreaDimmedTextColor</key>
+	<string>@defaultDimmedTextColor</string>
+	<key>inputAreaAbbreviationTextColor</key>
+	<string>#f9f9f9</string>
+
+
+	<key>inputAreaAbbreviationBaselineOffset</key>
+	<integer>0</integer>
+	<key>inputAreaAbbreviationFontName</key>
+	<string>@defaultFontName</string>
+	<key>inputAreaAbbreviationFontSize</key>
+	<integer>13</integer>
+
+
+	<key>inputAreaAbbreviationInputProgressIndicationOffset</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationThickness</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationRadius</key>
+	<integer>0</integer>
+
+
+	<key>inputAreaActionMenuAreaEdgeInsets</key>
+	<string>-3 0 -3 0</string>
+	<key>inputAreaAutohideOffImagePaddingRight</key>
+	<integer>16</integer>
+
+	<key>inputAreaActionMenuAreaTextShadowColor</key>
+	<string>@defaultTextShadowColor</string>
+	<key>inputAreaActionMenuAreaBackgroundColor</key>
+	<string>0 0 0 0.12</string>
+
+
+	<key>inputAreaFocusedItemFontName</key>
+	<string>@defaultFontName</string>
+	<key>inputAreaFocusedItemFontSize</key>
+	<integer>26</integer>
+
+	<key>inputAreaFocusedItemBaselineOffset</key>
+	<integer>1</integer>
+
+	<key>inputAreaHeight</key>
+	<integer>58</integer>
+	<key>inputAreaPaddingLeft</key>
+	<integer>14</integer>
+	<key>inputAreaPaddingRight</key>
+	<integer>14</integer>
+
+	<key>inputAreaMenuButtonPaddingRight</key>
+	<integer>16</integer>
+	<key>inputAreaKeyCapImagePaddingRight</key>
+	<integer>13</integer>
+
+	<key>inputAreaShouldSmoothFonts@1x</key>
+	<false/>
+	<key>inputAreaShouldSmoothFonts@2x</key>
+	<true/>
+	<key>inputAreaNonKeyWindowTextShadowColor</key>
+	<string>@defaultTextShadowColor</string>
+
+
+	<key>inputAreaBackgroundGradient</key>
+	<dict>
+		<key>0.0</key>
+		<string>0 0 0 0.0</string>
+		<key>1.0</key>
+		<string>0 0 0 0.0</string>
+	</dict>
+
+
+	<key>inputAreaTitlePaddingBottom</key>
+	<string>-4</string>
+
+	<key>inputAreaAbbreviationInputProgressIndicationAlpha</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationInputSubsearchProgressIndicationAlpha</key>
+	<real>1</real>
+
+	<key>inputAreaDefocusedItemFontName</key>
+	<string>@defaultFontName</string>
+
+	<key>inputAreaNonKeyWindowTextColorOffsetLevel</key>
+	<real>-0.3</real>
+
+	<key>inputAreaAbbreviationFontName</key>
+	<string>@defaultFontName</string>
+	<key>inputAreaAbbreviationFontSize</key>
+	<integer>13</integer>
+	<key>inputAreaAbbreviationFontSize@1x</key>
+	<integer>14</integer>
+
+
+
+
+	<key>textInputTextColor</key>
+	<string>whiteColor</string>
+	<key>textInputFontName</key>
+	<string>@defaultFontName</string>
+	<key>textInputFontSize</key>
+	<string>@inputAreaFocusedItemFontSize</string>
+
+	<key>textInputSelectedTextBackgroundColor</key>
+	<string>#5D9CF580</string>
+
+	<key>textInputTitleFontSize</key>
+	<integer>16</integer>
+	<key>textInputTitleTextColor</key>
+	<string>#cccccc</string>
+
+	<key>textInputBackgroundColor</key>
+	<string>clearColor</string>
+	<key>textInputFieldTextContainerInset</key>
+	<string>0 0</string>
+
+	<key>textInputFocusRingColor</key>
+	<string>clearColor</string>
+	<key>textInputInactiveFocusRingColor</key>
+	<string>clearColor</string>
+
+	<key>textInputBackgroundColor</key>
+	<string>clearColor</string>
+	<key>textInputEdgeInsets</key>
+	<string>8 5 3 8</string>
+	<key>textInputFieldEditorEdgeInsets</key>
+	<string>3.5 0 3 14</string>
+	<key>textInputFieldEditorEdgeInsets@1x</key>
+	<string>3.5 0 3.5 14</string>
+	<key>textInputFieldTextContainerInset</key>
+	<string>0 0</string>
+
+
+
+
+	<key>itemListSeparatorUpperLineThickness</key>
+	<integer>1</integer>
+	<key>itemListSeparatorUpperLineColor</key>
+	<string>#ffffff15</string>
+
+	<key>itemListSeparatorLowerLineThickness</key>
+	<integer>0</integer>
+	<key>itemListSeparatorLowerLineColor</key>
+	<string>clearColor</string>
+
+	<key>itemListGridLineHeight</key>
+	<integer>0</integer>
+	<key>itemListGridLineShadowGradient</key>
+	<dict>
+	<key>0.0</key>
+		<string>1 1 1 0.09</string>
+		<key>0.1</key>
+		<string>1 1 1 0.09</string>
+		<key>0.9</key>
+		<string>1 1 1 0.09</string>
+		<key>1.0</key>
+		<string>1 1 1 0.09</string>
+	</dict>
+
+
+
+
+	<key>itemListRowHeight</key>
+	<string>42.0</string>
+
+	<key>itemListTitleFontSize</key>
+	<string>16.0</string>
+
+	<key>itemListTitleTextColor</key>
+	<string>#ffffff99</string>
+
+	<key>itemListSubtitleTextColor</key>
+	<string>#ffffff60</string>
+
+
+	<key>itemListSelectionHighlightColor</key>
+	<string>#0A83FE</string>
+	<key>itemListSelectionSubsearchHighlightColor</key>
+	<string>#0A83FE</string>
+
+	<key>itemListEdgeInsets</key>
+	<string>12 14 12 14</string>
+
+	<key>itemListIconPaddingLeft</key>
+	<integer>12</integer>
+	<key>itemListNavigationArrowPaddingRight</key>
+	<integer>12</integer>
+
+
+	<key>itemListScrollerColor</key>
+	<string>#ffffff30</string>
+
+	<key>itemListStagedItemHighlightLevel</key>
+	<real>0.45</real>
+
+
+	<key>itemListExtraDetailsBaselineOffset</key>
+	<integer>0</integer>
+	<key>itemListExtraDetailsFontName</key>
+	<string>@defaultFontName</string>
+	<key>itemListSubtitleFontSize</key>
+	<string>12.0</string>
+
+	<key>itemListLabeledExtraDetailsBaselineOffset</key>
+	<integer>0</integer>
+	<key>itemListLabeledExtraDetailsDeemphasizedBaselineOffset</key>
+	<integer>1</integer>
+
+	<key>itemListLabeledExtraDetailsFontName</key>
+	<string>lightMonospacedDigitSystemFont</string>
+	<key>itemListNavigationArrowAreaWidth</key>
+	<integer>35</integer>
+
+
+	<key>itemListSelectedSubtitleFontName@1x</key>
+	<string>@itemListSubtitleFontName</string>
+
+
+	<key>itemListTitleFontName</key>
+	<string>mediumSystemFont</string>
+	<key>itemListSubtitleFontName</key>
+	<string>regularSystemFont</string>
+
+
+	<key>itemListSelectedTitleFontName@1x</key>
+	<string>mediumtSystemFont</string>
+	<key>itemListSelectedTitleFontName@2x</key>
+	<string>mediumSystemFont</string>
+	<key>itemListSelectedSubtitleFontName@1x</key>
+	<string>@itemListSubtitleFontName</string>
+	<key>itemListTitleEmphasizedFontName</key>
+	<string>@defaultEmphasizedFontName</string>
+
+
+	<key>itemListTitleBaselineOffset</key>
+	<string>-1.5</string>
+	<key>itemListSubtitleBaselineOffset</key>
+	<string>2.5</string>
+
+</dict>
+</plist>
