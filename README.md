@@ -2,21 +2,25 @@
 
 **Dark and Light themes for LaunchBar.**
 
-There are 2 slight variations for each theme. Default size icons, and larger icons.
+There's a few different sizes for each theme, S, M, L, and XL.
 <br />
 <br />
-Dark theme with larger icons
+Dark theme, XL and Small sizes shown.
 <br />
-![LaunchBar Dark Theme](readme-images/launchbar-theme-dark-large.png)
+![LaunchBar Dark XL theme](readme-images/launchbar-theme-dark-xl.jpg)
+
+![LaunchBar Dark Small theme](readme-images/launchbar-theme-dark-s.jpg)
 
 <br />
 
-Light theme with larger icons
+Light theme, XL and Small sizes shown.
 <br />
-![LaunchBar Light Theme](readme-images/launchbar-theme-light-large.png)
+![LaunchBar Dark XL theme](readme-images/launchbar-theme-light-xl.jpg)
+
+![LaunchBar Dark Small theme](readme-images/launchbar-theme-light-s.jpg)
 
 
 <br />
 I've also included [launchbar-theme-values.pdf](https://github.com/jonohunt/LaunchBar-Themes-Actions/blob/main/README.md) listing names, colours, etc. of the different parts of the UI to help others theming LaunchBar.<br />
-<br />
+
 I can't remember exactly who shared this (Manfred?). It was just after the release of LaunchBar 6, and was meant as a temporary guide until Objective Development released an 'official guide' (which never happened).
