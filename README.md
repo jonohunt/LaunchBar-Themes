@@ -22,5 +22,5 @@ Light theme, XL and Small sizes shown.
 
 <br />
 I've also included [launchbar-theme-values.pdf](https://github.com/jonohunt/LaunchBar-Themes-Actions/blob/main/README.md) listing names, colours, etc. of the different parts of the UI to help others theming LaunchBar.<br />
-
+<br />
 I can't remember exactly who shared this (Manfred?). It was just after the release of LaunchBar 6, and was meant as a temporary guide until Objective Development released an 'official guide' (which never happened).
