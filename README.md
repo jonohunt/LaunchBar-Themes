@@ -2,7 +2,7 @@
 
 ## Dark and Light themes for LaunchBar
 
-![LaunchBar Themes](readme-images/launchbar-themes.jpg)
+![LaunchBar Themes](readme-images/launchbar-themes-light.jpg)
 <br />
 <br />
 
