@@ -1,9 +1,12 @@
 # LaunchBar Themes & Actions
 
-**Dark and Light themes for LaunchBar.**
+## Dark and Light themes for LaunchBar
 
-There's a few different sizes for each theme, S, M, L, and XL.
+![LaunchBar Themes](readme-images/launchbar-themes.jpg)
 <br />
+<br />
+
+There's a few different sizes for each theme, S, M, L, and XL.<br />
 <br />
 Dark theme, XL and Small sizes shown.
 <br />
