@@ -6,9 +6,5 @@
 	<string>com.jonohunt.LaunchBar.theme.macOS-Light-XL</string>
 	<key>CFBundleName</key>
 	<string>macOS Light — XL</string>
-	<key>LBThemeDescription</key>
-		<string>Light theme based on a standard macOS look. Input Area icon size = 40x40. Item List icon size = 32x32.</string>
-	<key>LSMinimumSystemVersion</key>
-	<string>10.11</string>
 </dict>
 </plist>

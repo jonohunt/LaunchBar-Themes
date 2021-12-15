@@ -9,7 +9,7 @@
 	<key>itemListTitleBaselineOffset</key>
 	<string>-1.5</string>
 	<key>itemListSubtitleBaselineOffset</key>
-	<string>-1.85</string>
+	<string>-2.0</string>
 
 	<key>itemListTitleFontSize</key>
 	<string>15</string>
@@ -19,18 +19,17 @@
 	<key>itemListSubtitleFontName</key>
 	<string>mediumSystemFont</string>
 
-	
-	
+
 	<key>inputAreaHeight</key>
-	<integer>59</integer>
+	<integer>58</integer>
 	<key>itemListRowHeight</key>
-	<string>41</string>
+	<string>40</string>
 
 
 	<key>inputAreaIconSize</key>
 	<string>32 32</string>
 	<key>itemListIconSize</key>
-	<string>32 32</string>
+	<string>28 28</string>
 
 
 	<key>windowCornerRadius</key>
@@ -98,7 +97,7 @@
 
 	<key>itemListSelectedSubtitleTextColor</key>
 	<string>#a6daff</string>
-	
+
 
 	<key>windowBackgroundColor</key>
 	<string>#FFFFFF73</string>
@@ -190,8 +189,6 @@
 	<integer>6</integer>
 	<key>itemListNavigationArrowAreaWidth</key>
 	<integer>30</integer>
-	<key>itemListSelectedTitleFontName@1x</key>
-	<string>@itemListTitleFontName</string>
 
 	<key>itemListSelectedTitleShadowColor</key>
 	<string>clearColor</string>
@@ -200,10 +197,8 @@
 
 	<key>itemListTitleEmphasizedFontName</key>
 	<string>@defaultEmphasizedFontName</string>
-	<key>itemListTitleFontName</key>
-	<string>regularSystemFont</string>
 	<key>templateIconShadow</key>
-	<string>clearColor</string>
+	<string></string>
 	<key>templateIconShadowBlurRadius</key>
 	<string>0</string>
 	<key>templateIconShadowColor</key>

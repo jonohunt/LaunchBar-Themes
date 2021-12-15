@@ -12,27 +12,27 @@
 	<key>itemListTitleBaselineOffset</key>
 	<string>-1.5</string>
 	<key>itemListSubtitleBaselineOffset</key>
-	<string>-1.85</string>
+	<string>-2.0</string>
 
 	<key>itemListTitleFontSize</key>
-	<string>16</string>
+	<string>15</string>
 	<key>itemListSubtitleFontSize</key>
 	<string>12.5</string>
 
 	<key>itemListSubtitleFontName</key>
 	<string>mediumSystemFont</string>
-	
-		
+
+
 	<key>inputAreaHeight</key>
-	<integer>59</integer>
+	<integer>58</integer>
 	<key>itemListRowHeight</key>
-	<string>41</string>
+	<string>40</string>
 
 
 	<key>inputAreaIconSize</key>
-	<string>36 36</string>
-	<key>itemListIconSize</key>
 	<string>32 32</string>
+	<key>itemListIconSize</key>
+	<string>28 28</string>
 
 
 	<key>windowCornerRadius</key>
@@ -42,7 +42,7 @@
 
 
 	<key>inputAreaPaddingLeft</key>
-	<integer>17</integer>
+	<integer>19</integer>
 
 
 	<key>itemListEdgeInsets</key>

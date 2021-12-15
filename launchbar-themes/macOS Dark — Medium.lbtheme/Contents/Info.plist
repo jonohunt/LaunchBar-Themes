@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.jonohunt.LaunchBar.theme.macOS.Dark-Large</string>
+	<string>com.jonohunt.LaunchBar.theme.macOS.Dark-Medium</string>
 	<key>CFBundleName</key>
-	<string>macOS Dark — Large</string>
+	<string>macOS Dark — Medium</string>
 </dict>
 </plist>
