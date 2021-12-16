@@ -2,7 +2,11 @@
 
 ## Dark and Light themes for LaunchBar
 
-![LaunchBar Themes](readme-images/launchbar-themes-light.jpg)
+![macOS Theme Light](readme-images/launchbar-themes-light-01.jpg)
+<br />
+
+Inline Item List subtitles
+![macOS Theme Dark](readme-images/launchbar-themes-dark-01.jpg)
 <br />
 <br />
 
