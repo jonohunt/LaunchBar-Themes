@@ -12,18 +12,13 @@ Inline Item List subtitles
 
 There's a few different sizes for each theme, S, M, L, and XL.<br />
 <br />
-Dark theme, XL and Small sizes shown.
+Dark theme, XL
 <br />
 ![LaunchBar Dark XL theme](readme-images/launchbar-theme-dark-xl.jpg)
-
-![LaunchBar Dark Small theme](readme-images/launchbar-theme-dark-s.jpg)
-
 <br />
 
-Light theme, XL and Small sizes shown.
+Light theme, small
 <br />
-![LaunchBar Dark XL theme](readme-images/launchbar-theme-light-xl.jpg)
-
 ![LaunchBar Dark Small theme](readme-images/launchbar-theme-light-s.jpg)
 
 
