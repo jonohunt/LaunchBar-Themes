@@ -1,4 +1,4 @@
-# LaunchBar Themes & Actions
+# LaunchBar Themes
 
 ## Dark and Light themes for LaunchBar
 
